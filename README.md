@@ -49,7 +49,7 @@
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
 🦄 git clone https://github.com/XTG-BRUTAL/BOT999
-🦄 cd Vimdhayak-Bot
+🦄 cd BOT999
 🦄 npm install
 🦄 npm start
 🦄 scan qr code within 15seconds
