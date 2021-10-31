@@ -1,7 +1,7 @@
 
 
 <div align="center">
-        <img src="https://media1.tenor.com/images/18649b288a194f2aaf94bf43da2921e0/tenor.gif?itemid=23630269" width="200" height="200.8072289156626" alt="GIF - GIFs" style="max-width: 546px; background-color: rgb(63, 63, 63);">" async src="https://tenor.com/embed.js">
+        <img src="https://media1.tenor.com/images/18649b288a194f2aaf94bf43da2921e0/tenor.gif?itemid=23630269" width="250" height="300.8072289156626" alt="GIF - GIFs" style="max-width: 546px; background-color: rgb(63, 63, 63);">" async src="https://tenor.com/embed.js">
 </p>
 
 ## BOT 999
