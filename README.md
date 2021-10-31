@@ -1,7 +1,7 @@
 
 
 <div align="center">
-        <img src="<div class="tenor-gif-embed" data-postid="23630192" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/gif-23630192">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="GIF" width="250" height="200"/>
+        <img src="https://media1.tenor.com/images/0a1dc9c5d22b2457a32b8fc74df562c1/tenor.gif?itemid=23630192" async src="https://tenor.com/embed.js"></script>" alt="GIF" width="250" height="200"/>
 </p>
 
 ## BOT 999
