@@ -1,19 +1,25 @@
-<div align="center">
-<img src="https://i.ibb.co/KV81xXM/Vimdhayak-bot.jpg" alt="Brutal" width="170" />
 
-## BOT 999
+
+<div align="center">
+        <img src="https://c.tenor.com/Rd62X6xJoAMAAAAi/fake-3d.gif" alt="GIF" width="250" height="200"/>
+</p>
+
+## BOT 69
 
 </div>
 
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=Hindi and English&color=blue"></a>
+<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/XTG-BRUTAL"><img title="Author" src="https://img.shields.io/badge/Author-Brutal-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/XTG-BRUTAL"><img title="Author" src="https://img.shields.io/badge/Author-Arnab-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="Brutal" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
+
+## 'Deploy'
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTG-BRUTAL/AB-BOT-69/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -25,14 +31,20 @@
 ## `ADD BUILDPACK`
 
 ```
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/jayshreeanand/heroku-buildpack-libwebp.git
+```
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+```
+https://github.com/nrj/heroku-buildpack-imagemagick-webp
 ```
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/XTG-BRUTAL/BOT999.git
-🦄 cd Vimdhayak-Bot
+🦄 git clone https://github.com/XTG-BRUTAL/AB-BOT-69.git
+🦄 cd AB-BOT-69
 🦄 npm start
 ```
 ## For Termux
@@ -48,8 +60,8 @@
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/XTG-BRUTAL/BOT999
-🦄 cd BOT999
+🦄 git clone https://github.com/XTG-BRUTAL/AB-BOT-69
+🦄 cd AB-BOT-69
 🦄 npm install
 🦄 npm start
 🦄 scan qr code within 15seconds
@@ -66,8 +78,8 @@ My Whatsapp Group👇
  <a href="https://chat.whatsapp.com/JXXlZP4uxyWDmrZvBn1G2f"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://www.youtube.com/c/XTGBRUTAL)
+* [`My Youtube Channel`](https://www.youtube.com/channel/UCVTmh1k-Of3tmHeAk6_3EZw)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Brutal`](https://https://github.com/XTG-BRUTAL)
+* [`Arnab`](https://github.com/XTG-BRUTAL)
