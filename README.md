@@ -60,8 +60,8 @@ https://github.com/nrj/heroku-buildpack-imagemagick-webp
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/XTG-BRUTAL/AB-BOT-69
-🦄 cd AB-BOT-69
+🦄 git clone https://github.com/XTG-BRUTAL/BOT999
+🦄 cd BOT999
 🦄 npm install
 🦄 npm start
 🦄 scan qr code within 15seconds
