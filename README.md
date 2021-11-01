@@ -11,7 +11,7 @@
 <p align="center">
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
-<a href="<canvas class="runner-canvas" width="600" height="150" style="width: 600px; height: 150px;"></canvas>"
+<a href="<canvas class="runner-canvas" width="600" height="150" style="width: 600px; height: 150px;"></canvas>"><img title="Game" src="https://media1.tenor.com/images/755aa9721aee207a1a5afa288431a393/tenor.gif?itemid=23638809" width="546" height="510.91566265060237" alt="GIF - GIFs" style="max-width: 546px; background-color: rgb(63, 63, 63);">
 </p>
 <p align="center">
   <a href="https://github.com/XTG-BRUTAL"><img title="Author" src="https://img.shields.io/badge/Author-Arnab-blue.svg?style=for-the-badge&logo=github" /></a>
