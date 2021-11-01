@@ -11,6 +11,8 @@
 <p align="center">
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
+<a href="<canvas class="runner-canvas" width="600" height="150" style="width: 600px; height: 150px;"></canvas>"
+</p>
 <p align="center">
   <a href="https://github.com/XTG-BRUTAL"><img title="Author" src="https://img.shields.io/badge/Author-Arnab-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
